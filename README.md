@@ -11,6 +11,7 @@ Jestem...
 |Projekt|Opis|Link|
 |-------|----|----|
 |Kuchnie-swaita|Prosty projekt html + css|https://github.com/MW177609/Kuchnie-swiata|
+|Projekt_na_zaj-ciach|Prosty projekt|https://github.com/MW177609/Projekt_na_zaj-ciach|
 
 ## Statystyki
 ![Moje statystyki](https://github-readme-stats.vercel.app/api?username=MW177609&show_icons=true&theme=midnight-purple)
