@@ -3,3 +3,9 @@ Jestem...
 
 ## Technologie
 ![Static Badge](https://img.shields.io/badge/python-3776Ab?style=plastic&logoColor=white)
+![Static Badge](https://img.shields.io/badge/html5-E34F26?style=plastic&logoColor=white)
+![Static Badge](https://img.shields.io/badge/unrealengine-0E1128?style=plastic&logoColor=white)
+![Static Badge](https://img.shields.io/badge/c%2B%2B-00599C?style=plastic&logoColor=white)
+
+### Kontakt
+[![Static Badge](https://img.shields.io/badge/gmail-EA4335?style=plastic&logoColor=white)](mailto:wicherxd135@gmail.com)
